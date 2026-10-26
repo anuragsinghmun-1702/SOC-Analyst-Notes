@@ -1,0 +1,45 @@
+Blue Team Introduction
+Objective
+Understand the role of a Security Operations Center (SOC) and the responsibilities of a Junior SOC Analyst.
+
+Key Concepts
+-Blue Team
+-Defensive Security
+-SOC
+-Alert Monitoring
+-Incident Response
+-Threat Detection
+
+SOC Analyst Responsibilities
+-Monitor alerts
+-Validate security incidents
+-Investigate suspicious activity
+-Escalate incidents
+-Document findings
+
+Common Tools
+-SIEM
+-EDR
+-Antivirus
+-Threat Intelligence Platforms
+
+Incident Response Process
+1.Detection
+2.Analysis
+3.Containment
+4.Eradication
+5.Recovery
+6.Lessons Learned
+
+Interview Question
+What does a SOC Analyst do?
+
+Answer:
+
+A SOC Analyst monitors security events, investigates alerts, analyzes threats, documents findings, and escalates confirmed incidents to higher-level analysts.
+
+Real SOC Application
+A SOC analyst may receive an alert indicating multiple failed login attempts. The analyst investigates, determines whether it is a brute-force attack, documents findings, and escalates if necessary.
+
+Summary
+The Blue Team focuses on defending organizational assets by monitoring, detecting, investigating, and responding to security threats.
